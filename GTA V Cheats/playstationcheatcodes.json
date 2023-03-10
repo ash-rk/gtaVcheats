@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "category": "Player effects",
+        "details": [
+            {
+                "effect": "Give weapons",
+                "cheat": "Triangle, R2, Left, L1, Cross, Right, Triangle, Down, Square, L1, L1, L1"
+            },
+            {
+                "effect": "Max health + Armor",
+                "cheat": "Circle, L1, Triangle, R2, Cross, Square, Circle, Right, Square, L1, L1, L1"
+            },
+            {
+                "effect": "Invincibility",
+                "cheat": "Right, Cross, Right, Left, Right, R1, Right, Left, Cross, Triangle"
+            },
+            {
+                "effect": "Lower wanted level",
+                "cheat": "R1, R1, Circle, R2, Right, Left, Right, Left, Right, Left"
+            },
+            {
+                "effect": "Raise wanted level",
+                "cheat": "R1, R1, Circle, R2, Left, Right, Left, Right, Left, Right"
+            },
+            {
+                "effect": "Special ability recharge",
+                "cheat": "Cross, Cross, Square, R1, L1, Cross, Right, Left, Cross"
+            },
+            {
+                "effect": "Bang bang!",
+                "cheat": "Right, Square, Cross, Left, R1, R2, Left, Right, Right, L1, L1, L1"
+            },
+            {
+                "effect": "Flaming bullets",
+                "cheat": "L1, R1, Square, R1, Left, R2, R1, Left, Square, Right, L1, L1"
+            },
+            {
+                "effect": "Explosive melee attacks",
+                "cheat": "Right, Left, Cross, Triangle, R1, Circle, Circle, Circle, L2"
+            },
+            {
+                "effect": "Super jump",
+                "cheat": "L2, L2, Square, Circle, Circle, L2, Square, Square, Left, Right, Cross"
+            },
+            {
+                "effect": "Give parachute",
+                "cheat": "Left, Right, L1, L2, R1, R2, R2, Left, Left, Right, L1"
+            },
+            {
+                "effect": "Skyfall",
+                "cheat": "L1, L2, R1, R2, Left, Right, Left, Right, L1, L2, R1, R2, Left, Right, Left, Right"
+            },
+            {
+                "effect": "Drunk mode",
+                "cheat": "Triangle, Right, Left, Right, Square, Circle, Left"
+            },
+            {
+                "effect": "Fast Run",
+                "cheat": "Triangle, Left, Right, Right, L2, L1, Square"
+            },
+            {
+                "effect": "Fast swim",
+                "cheat": "Left, Left, L1, Right, Right, R2, Left, L2, Right"
+            },
+            {
+                "effect": "Slow motion aiming",
+                "cheat": "Square, L2, R1, Triangle, Left, Square, L2, Right, Cross"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "category": "World effects",
+        "details": [
+            {
+                "effect": "Change weather",
+                "cheat": "R2, Cross, L1, L1, L2, L2, L2, Square"
+            },
+            {
+                "effect": "Slidey cars",
+                "cheat": "Triangle, R1, R1, Left, R1, L1, R2, L1"
+            },
+            {
+                "effect": "Slow motion",
+                "cheat": "Triangle, Left, Right, Right, Square, R2, R1"
+            },
+            {
+                "effect": "Moon gravity",
+                "cheat": "Left, Left, L1, R1, L1, Right, Left, L1, Left"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "category": "Vehicle",
+        "details": [
+            {
+                "effect": "Spawn BMX",
+                "cheat": "Left, Left, Right, Right, Left, Right, Square, Circle, Triangle, R1, R2"
+            },
+            {
+                "effect": "Spawn Buzzard",
+                "cheat": "Circle, Circle, L1, Circle, Circle, Circle, L1, L2, R1, Triangle, Circle, Triangle"
+            },
+            {
+                "effect": "Spawn Caddy",
+                "cheat": "Circle, L1, Left, R1, L2, Cross, R1, L1, Circle, Cross"
+            },
+            {
+                "effect": "Spawn Comet",
+                "cheat": "R1, Circle, R2, Right, L1, L2, Cross, Cross, Square, R1"
+            },
+            {
+                "effect": "Spawn Duster",
+                "cheat": "Right, Left, R1, R1, R1, Left, Triangle, Triangle, Cross, Circle, L1, L1"
+            },
+            {
+                "effect": "Spawn Limousine",
+                "cheat": "R2, Right, L2, Left, Left, R1, L1, Circle, Right"
+            },
+            {
+                "effect": "PCJ-600",
+                "cheat": "R1, Right, Left, Right, R2, Left, Right, Square, Right, L2, L1, L1"
+            },
+            {
+                "effect": "Spawn Rapid GT",
+                "cheat": "R2, L1, Circle, Right, L1, R1, Right, Left, Circle, R2"
+            },
+            {
+                "effect": "Spawn Sanchez",
+                "cheat": "Circle, Cross, L1, Circle, Circle, L1, Circle, R1, R2, L2, L1, L1"
+            },
+            {
+                "effect": "Spawn Stunt Plane",
+                "cheat": "Circle, Right, L1, L2, Left, R1, L1, L1, Left, Left, Cross, Triangle"
+            },
+            {
+                "effect": "Spawn Trashmaster",
+                "cheat": "Circle, R1, Circle, R1, Left, Left, R1, L1, Circle, Right"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "category": "Special Vehicles",
+        "details": [
+            {
+                "effect": "Spawn Dodo",
+                "cheat": "1-999-398-4628 (EXTINCT)"
+            },
+            {
+                "effect": "Spawn Duke O'Death",
+                "cheat": "1-999-3328-4227 (DEATHCAR)"
+            },
+            {
+                "effect": "Spawn Kraken",
+                "cheat": "1-999-282-2537 (BUBBLES)"
+            }
+        ]
+    }
+]

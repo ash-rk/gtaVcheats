@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "category": "Player effects",
+        "details": [
+            {
+                "effect": "Give weapons",
+                "cheat": "1-999-8665-87 (TOOLUP)"
+            },
+            {
+                "effect": "Max health + Armor",
+                "cheat": "1-999-887-853 (TURTLE)"
+            },
+            {
+                "effect": "Invincibility",
+                "cheat": "1-999-724-654-5537 (PAINKILLER)"
+            },
+            {
+                "effect": "Lower wanted level",
+                "cheat": "1-999-5299-3787 (LAWYERUP)"
+            },
+            {
+                "effect": "Raise wanted level",
+                "cheat": "1-999-3844-8483 (FUGITIVE)"
+            },
+            {
+                "effect": "Special ability recharge",
+                "cheat": "1-999-769-3787 (POWERUP)"
+            },
+            {
+                "effect": "Bang bang!",
+                "cheat": "1-999-444-439 (HIGHEX)"
+            },
+            {
+                "effect": "Flaming bullets",
+                "cheat": "1-999-462-363-4279 (INCENDIARY)"
+            },
+            {
+                "effect": "Explosive melee attacks",
+                "cheat": "1-999-4684-2637 (HOTHANDS)"
+            },
+            {
+                "effect": "Super jump",
+                "cheat": "1-999-467-86-48 (HOPTOIT)"
+            },
+            {
+                "effect": "Give parachute",
+                "cheat": "1-999-759-3483 (SKYDIVE)"
+            },
+            {
+                "effect": "Skyfall",
+                "cheat": "1-999-759-3255 (SKYFALL)"
+            },
+            {
+                "effect": "Drunk mode",
+                "cheat": "1-999-547-861 (LIQUOR)"
+            },
+            {
+                "effect": "Fast Run",
+                "cheat": "1-999-228-8463 (CATCHME)"
+            },
+            {
+                "effect": "Fast swim",
+                "cheat": "1-999-468-44557 (GOTGILLS)"
+            },
+            {
+                "effect": "Slow motion aiming",
+                "cheat": "1-999-332-3393 (DEADEYE)"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "category": "World effects",
+        "details": [
+            {
+                "effect": "Change weather",
+                "cheat": "1-999-625-348-7246 (MAKEITRAIN)"
+            },
+            {
+                "effect": "Slidey cars",
+                "cheat": "1-999-766-9329 (SNOWDAY)"
+            },
+            {
+                "effect": "Slow motion",
+                "cheat": "1-999-756-966 (SLOWMO)"
+            },
+            {
+                "effect": "Moon gravity",
+                "cheat": "1-999-356-2837 (FLOATER)"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "category": "Vehicle",
+        "details": [
+            {
+                "effect": "Spawn BMX",
+                "cheat": "1-999-226-348 (BANDIT)"
+            },
+            {
+                "effect": "Spawn Buzzard",
+                "cheat": "1-999-289-9633 (BUZZOFF)"
+            },
+            {
+                "effect": "Spawn Caddy",
+                "cheat": "1-999-4653-46-1 (HOLEIN1)"
+            },
+            {
+                "effect": "Spawn Comet",
+                "cheat": "1-999-266-38 (COMET)"
+            },
+            {
+                "effect": "Spawn Duster",
+                "cheat": "1-999-359-77729 (FLYSPRAY)"
+            },
+            {
+                "effect": "Spawn Limousine",
+                "cheat": "1-999-846-39663 (VINEWOOD)"
+            },
+            {
+                "effect": "PCJ-600",
+                "cheat": "1-999-762-538 (ROCKET)"
+            },
+            {
+                "effect": "Spawn Rapid GT",
+                "cheat": "1-999-727-4348 (RAPIDGT)"
+            },
+            {
+                "effect": "Spawn Sanchez",
+                "cheat": "1-999-633-7623 (OFFROAD)"
+            },
+            {
+                "effect": "Spawn Stunt Plane",
+                "cheat": "1-999-2276-78676 (BARNSTORM)"
+            },
+            {
+                "effect": "Spawn Trashmaster",
+                "cheat": "1-999-872-433 (TRASHED)"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "category": "Special Vehicles",
+        "details": [
+            {
+                "effect": "Spawn Dodo",
+                "cheat": "1-999-398-4628 (EXTINCT)"
+            },
+            {
+                "effect": "Spawn Duke O'Death",
+                "cheat": "1-999-3328-4227 (DEATHCAR)"
+            },
+            {
+                "effect": "Spawn Kraken",
+                "cheat": "1-999-282-2537 (BUBBLES)"
+            }
+        ]
+    }
+]

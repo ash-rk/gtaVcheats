@@ -1,0 +1,392 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		CF302AD424D5F13D009BC95D /* PinnedCodeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF302AD324D5F13D009BC95D /* PinnedCodeView.swift */; };
+		CF343E4F2511D11A00CD2AE8 /* InformationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF343E4E2511D11A00CD2AE8 /* InformationView.swift */; };
+		CF47C2BC24CC32E500FDEC02 /* playstationcheatcodes.json in Resources */ = {isa = PBXBuildFile; fileRef = CF47C2BB24CC32E500FDEC02 /* playstationcheatcodes.json */; };
+		CF4DB39724CAA99D00D4A9A5 /* GTA_V_CheatsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF4DB39624CAA99D00D4A9A5 /* GTA_V_CheatsApp.swift */; };
+		CF4DB39B24CAA99E00D4A9A5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF4DB39A24CAA99E00D4A9A5 /* Assets.xcassets */; };
+		CF4DB39E24CAA99E00D4A9A5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF4DB39D24CAA99E00D4A9A5 /* Preview Assets.xcassets */; };
+		CF4DB3AA24CAAA0500D4A9A5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF4DB3A524CAAA0400D4A9A5 /* ContentView.swift */; };
+		CF4DB3AB24CAAA0500D4A9A5 /* xboxcheatcodes.json in Resources */ = {isa = PBXBuildFile; fileRef = CF4DB3A624CAAA0400D4A9A5 /* xboxcheatcodes.json */; };
+		CF4DB3AC24CAAA0500D4A9A5 /* Bundle-Decodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF4DB3A724CAAA0500D4A9A5 /* Bundle-Decodable.swift */; };
+		CF4DB3AD24CAAA0500D4A9A5 /* CheatcodeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF4DB3A824CAAA0500D4A9A5 /* CheatcodeView.swift */; };
+		CF4DB3AE24CAAA0500D4A9A5 /* Cheatcode.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF4DB3A924CAAA0500D4A9A5 /* Cheatcode.swift */; };
+		CF4EDA6824CEEC77003EF8EB /* pccheatcodes.json in Resources */ = {isa = PBXBuildFile; fileRef = CF4EDA6724CEEC77003EF8EB /* pccheatcodes.json */; };
+		CF5117B624DA87AA00D54B6F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF5117B524DA87AA00D54B6F /* LaunchScreen.storyboard */; };
+		CF6CC2B224CEBDA200364CB6 /* SimpleButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF6CC2B124CEBDA200364CB6 /* SimpleButton.swift */; };
+		CFA23F9924D7DD3A00904584 /* IntroView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFA23F9824D7DD3A00904584 /* IntroView.swift */; };
+		CFAFAC5D24CBFE5C00E19ECA /* SplitTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFAFAC5C24CBFE5C00E19ECA /* SplitTextView.swift */; };
+		CFCAF5E424CC2576001885CD /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFCAF5E324CC2576001885CD /* MenuView.swift */; };
+		CFD197AB24D58B7200FA763C /* PinnedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFD197AA24D58B7200FA763C /* PinnedView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		CF302AD324D5F13D009BC95D /* PinnedCodeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PinnedCodeView.swift; sourceTree = "<group>"; };
+		CF343E4E2511D11A00CD2AE8 /* InformationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InformationView.swift; sourceTree = "<group>"; };
+		CF47C2BB24CC32E500FDEC02 /* playstationcheatcodes.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = playstationcheatcodes.json; sourceTree = "<group>"; };
+		CF4DB39324CAA99D00D4A9A5 /* GTA V Cheats.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GTA V Cheats.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CF4DB39624CAA99D00D4A9A5 /* GTA_V_CheatsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GTA_V_CheatsApp.swift; sourceTree = "<group>"; };
+		CF4DB39A24CAA99E00D4A9A5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		CF4DB39D24CAA99E00D4A9A5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CF4DB39F24CAA99E00D4A9A5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CF4DB3A524CAAA0400D4A9A5 /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		CF4DB3A624CAAA0400D4A9A5 /* xboxcheatcodes.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = xboxcheatcodes.json; sourceTree = "<group>"; };
+		CF4DB3A724CAAA0500D4A9A5 /* Bundle-Decodable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Bundle-Decodable.swift"; sourceTree = "<group>"; };
+		CF4DB3A824CAAA0500D4A9A5 /* CheatcodeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CheatcodeView.swift; sourceTree = "<group>"; };
+		CF4DB3A924CAAA0500D4A9A5 /* Cheatcode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Cheatcode.swift; sourceTree = "<group>"; };
+		CF4EDA6724CEEC77003EF8EB /* pccheatcodes.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = pccheatcodes.json; sourceTree = "<group>"; };
+		CF5117B524DA87AA00D54B6F /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
+		CF6CC2B124CEBDA200364CB6 /* SimpleButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleButton.swift; sourceTree = "<group>"; };
+		CFA23F9824D7DD3A00904584 /* IntroView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroView.swift; sourceTree = "<group>"; };
+		CFAFAC5C24CBFE5C00E19ECA /* SplitTextView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SplitTextView.swift; sourceTree = "<group>"; };
+		CFCAF5E324CC2576001885CD /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
+		CFD197AA24D58B7200FA763C /* PinnedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PinnedView.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		CF4DB39024CAA99D00D4A9A5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		CF4DB38A24CAA99D00D4A9A5 = {
+			isa = PBXGroup;
+			children = (
+				CF4DB39524CAA99D00D4A9A5 /* GTA V Cheats */,
+				CF4DB39424CAA99D00D4A9A5 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		CF4DB39424CAA99D00D4A9A5 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CF4DB39324CAA99D00D4A9A5 /* GTA V Cheats.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		CF4DB39524CAA99D00D4A9A5 /* GTA V Cheats */ = {
+			isa = PBXGroup;
+			children = (
+				CF4DB39624CAA99D00D4A9A5 /* GTA_V_CheatsApp.swift */,
+				CF4DB3A724CAAA0500D4A9A5 /* Bundle-Decodable.swift */,
+				CF4DB3A924CAAA0500D4A9A5 /* Cheatcode.swift */,
+				CF4DB3A624CAAA0400D4A9A5 /* xboxcheatcodes.json */,
+				CF4EDA6724CEEC77003EF8EB /* pccheatcodes.json */,
+				CF47C2BB24CC32E500FDEC02 /* playstationcheatcodes.json */,
+				CFCAF5E324CC2576001885CD /* MenuView.swift */,
+				CF6CC2B124CEBDA200364CB6 /* SimpleButton.swift */,
+				CF4DB3A524CAAA0400D4A9A5 /* ContentView.swift */,
+				CF4DB3A824CAAA0500D4A9A5 /* CheatcodeView.swift */,
+				CFD197AA24D58B7200FA763C /* PinnedView.swift */,
+				CFA23F9824D7DD3A00904584 /* IntroView.swift */,
+				CF343E4E2511D11A00CD2AE8 /* InformationView.swift */,
+				CF302AD324D5F13D009BC95D /* PinnedCodeView.swift */,
+				CFAFAC5C24CBFE5C00E19ECA /* SplitTextView.swift */,
+				CF4DB39A24CAA99E00D4A9A5 /* Assets.xcassets */,
+				CF4DB39F24CAA99E00D4A9A5 /* Info.plist */,
+				CF5117B524DA87AA00D54B6F /* LaunchScreen.storyboard */,
+				CF4DB39C24CAA99E00D4A9A5 /* Preview Content */,
+			);
+			path = "GTA V Cheats";
+			sourceTree = "<group>";
+		};
+		CF4DB39C24CAA99E00D4A9A5 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				CF4DB39D24CAA99E00D4A9A5 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		CF4DB39224CAA99D00D4A9A5 /* GTA V Cheats */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CF4DB3A224CAA99E00D4A9A5 /* Build configuration list for PBXNativeTarget "GTA V Cheats" */;
+			buildPhases = (
+				CF4DB38F24CAA99D00D4A9A5 /* Sources */,
+				CF4DB39024CAA99D00D4A9A5 /* Frameworks */,
+				CF4DB39124CAA99D00D4A9A5 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "GTA V Cheats";
+			productName = "GTA V Cheats";
+			productReference = CF4DB39324CAA99D00D4A9A5 /* GTA V Cheats.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		CF4DB38B24CAA99D00D4A9A5 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1200;
+				LastUpgradeCheck = 1200;
+				TargetAttributes = {
+					CF4DB39224CAA99D00D4A9A5 = {
+						CreatedOnToolsVersion = 12.0;
+					};
+				};
+			};
+			buildConfigurationList = CF4DB38E24CAA99D00D4A9A5 /* Build configuration list for PBXProject "GTA V Cheats" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CF4DB38A24CAA99D00D4A9A5;
+			productRefGroup = CF4DB39424CAA99D00D4A9A5 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				CF4DB39224CAA99D00D4A9A5 /* GTA V Cheats */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		CF4DB39124CAA99D00D4A9A5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CF4DB3AB24CAAA0500D4A9A5 /* xboxcheatcodes.json in Resources */,
+				CF4EDA6824CEEC77003EF8EB /* pccheatcodes.json in Resources */,
+				CF47C2BC24CC32E500FDEC02 /* playstationcheatcodes.json in Resources */,
+				CF5117B624DA87AA00D54B6F /* LaunchScreen.storyboard in Resources */,
+				CF4DB39E24CAA99E00D4A9A5 /* Preview Assets.xcassets in Resources */,
+				CF4DB39B24CAA99E00D4A9A5 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		CF4DB38F24CAA99D00D4A9A5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CFCAF5E424CC2576001885CD /* MenuView.swift in Sources */,
+				CF4DB3AA24CAAA0500D4A9A5 /* ContentView.swift in Sources */,
+				CF4DB3AD24CAAA0500D4A9A5 /* CheatcodeView.swift in Sources */,
+				CF6CC2B224CEBDA200364CB6 /* SimpleButton.swift in Sources */,
+				CF4DB3AE24CAAA0500D4A9A5 /* Cheatcode.swift in Sources */,
+				CF4DB39724CAA99D00D4A9A5 /* GTA_V_CheatsApp.swift in Sources */,
+				CFD197AB24D58B7200FA763C /* PinnedView.swift in Sources */,
+				CF302AD424D5F13D009BC95D /* PinnedCodeView.swift in Sources */,
+				CFAFAC5D24CBFE5C00E19ECA /* SplitTextView.swift in Sources */,
+				CF343E4F2511D11A00CD2AE8 /* InformationView.swift in Sources */,
+				CFA23F9924D7DD3A00904584 /* IntroView.swift in Sources */,
+				CF4DB3AC24CAAA0500D4A9A5 /* Bundle-Decodable.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		CF4DB3A024CAA99E00D4A9A5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		CF4DB3A124CAA99E00D4A9A5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = s;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		CF4DB3A324CAA99E00D4A9A5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 2.0;
+				DEVELOPMENT_ASSET_PATHS = "\"GTA V Cheats/Preview Content\"";
+				DEVELOPMENT_TEAM = Y3J27554FY;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = "GTA V Cheats/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Thunder-Flare.GTA-V-Cheats";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		CF4DB3A424CAA99E00D4A9A5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 2.0;
+				DEVELOPMENT_ASSET_PATHS = "\"GTA V Cheats/Preview Content\"";
+				DEVELOPMENT_TEAM = Y3J27554FY;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = "GTA V Cheats/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Thunder-Flare.GTA-V-Cheats";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CF4DB38E24CAA99D00D4A9A5 /* Build configuration list for PBXProject "GTA V Cheats" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CF4DB3A024CAA99E00D4A9A5 /* Debug */,
+				CF4DB3A124CAA99E00D4A9A5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CF4DB3A224CAA99E00D4A9A5 /* Build configuration list for PBXNativeTarget "GTA V Cheats" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CF4DB3A324CAA99E00D4A9A5 /* Debug */,
+				CF4DB3A424CAA99E00D4A9A5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CF4DB38B24CAA99D00D4A9A5 /* Project object */;
+}
